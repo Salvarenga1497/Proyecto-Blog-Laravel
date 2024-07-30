@@ -1,3 +1,5 @@
+<p align="center">Este repositorio contiene una práctica de PHP con laravel, en la que implementé un CRUD de blogs utilizando una base de datos MySQL. Incluye campos básicos. Además, usé Tailwind CSS para el diseño y estilo de la interfaz.</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
